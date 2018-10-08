@@ -1895,7 +1895,7 @@ commander@~2.13.0:
   version "2.13.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.13.0.tgz#6964bca67685df7c1f1430c584f07d7597885b9c"
 
-common-tags@^1.4.0, common-tags@^1.7.2:
+common-tags@^1.4.0:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/common-tags/-/common-tags-1.7.2.tgz#24d9768c63d253a56ecff93845b44b4df1d52771"
   dependencies:
@@ -5012,6 +5012,10 @@ lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.3.0, lo
   version "4.17.10"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
 
+lodash@^4.17.11:
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+
 log-symbols@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-2.2.0.tgz#5740e1c5d6f0dfda4ad9323b5332107ef6b4c40a"
@@ -7047,15 +7051,15 @@ temp@0.8.3:
     os-tmpdir "^1.0.0"
     rimraf "~2.2.6"
 
-testdouble@^3.5.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/testdouble/-/testdouble-3.8.0.tgz#32cf71618b0bb572a9f9c1f641592c788e505a60"
+testdouble@^3.8.2:
+  version "3.8.2"
+  resolved "https://registry.yarnpkg.com/testdouble/-/testdouble-3.8.2.tgz#f9e8499c2bae2dc1ad1b438a23c74e2808afa058"
   dependencies:
-    common-tags "^1.7.2"
     es6-map "^0.1.5"
-    lodash "^4.17.4"
+    lodash "^4.17.11"
     quibble "^0.5.5"
     stringify-object-es5 "^2.5.0"
+    theredoc "^1.0.0"
 
 testem@^2.2.0:
   version "2.4.0"
@@ -7096,6 +7100,10 @@ text-table@~0.2.0:
 "textextensions@1 || 2":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/textextensions/-/textextensions-2.2.0.tgz#38ac676151285b658654581987a0ce1a4490d286"
+
+theredoc@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/theredoc/-/theredoc-1.0.0.tgz#bcace376af6feb1873efbdd0f91ed026570ff062"
 
 through@^2.3.6, through@^2.3.8, through@~2.3.8:
   version "2.3.8"
