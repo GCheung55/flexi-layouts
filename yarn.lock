@@ -2754,9 +2754,9 @@ ember-try@^1.0.0-beta.2:
     rimraf "^2.3.2"
     rsvp "^4.7.0"
 
-ember-window-mock@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/ember-window-mock/-/ember-window-mock-0.4.0.tgz#87316623dd1a1414b82b08bb018889a210be91bd"
+ember-window-mock@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/ember-window-mock/-/ember-window-mock-0.5.2.tgz#6ddecf24874a8941f81c743e20ca9bb759502590"
   dependencies:
     broccoli-funnel "^2.0.1"
     ember-cli-babel "^6.6.0"
